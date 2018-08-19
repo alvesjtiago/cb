@@ -18,6 +18,10 @@
     "inquirer": "^6.1.0",
     "simple-git": "^1.96.0"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/alvesjtiago/cb/"
+  },
   "bin": {
     "cb": "./index.js"
   }
