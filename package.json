@@ -1,5 +1,5 @@
 {
-  "name": "cb",
+  "name": "git-cb",
   "version": "1.0.0",
   "description": "List and change git branch in one command.",
   "main": "index.js",
