@@ -17,5 +17,8 @@
     "chalk": "^2.4.1",
     "inquirer": "^6.1.0",
     "simple-git": "^1.96.0"
+  },
+  "bin": {
+    "cb": "./index.js"
   }
 }
